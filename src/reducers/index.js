@@ -1,0 +1,1 @@
+//TODO store user email, id, isAuthenticated
